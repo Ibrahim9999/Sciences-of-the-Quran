@@ -1,0 +1,6 @@
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\bin\Debug\Quran Word Search.exe.config
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\bin\Debug\Quran Word Search.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\bin\Debug\Quran Word Search.pdb
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\obj\Debug\Quran Word Search.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\obj\Debug\Quran Word Search.exe
+C:\Users\PC\Documents\SharpDevelop Projects\Quran Word Search\Quran Word Search\obj\Debug\Quran Word Search.pdb

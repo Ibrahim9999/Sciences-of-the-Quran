@@ -1,0 +1,76 @@
+------------------------------------------------------------------
+
+Contents:
+	 1. Value of "White"
+	 2. Value of "Iron"
+	 3. Value of "Highest Degree"
+	 4. 
+	 5. 
+	 6. 
+	 7. 
+	 8. 
+	 9. 
+	10. 
+	11. 
+	12. 
+	13. 
+	14. 
+	15. 
+	16. 
+	17. 
+	18. 
+	19. 
+	20. 
+
+------------------------------------------------------------------
+
+1. Value of "White":
+	-The value of "White" equals the same number when all of its occuring verses are added up
+	
+	-Potential Significance:
+		-The gematrical value for "white" is either 812, 813, or 814, depending on the spelling and context. When a general "white" is used, like the color (or when describing the color of a masculine object), it is "abyadd", which has the value of 813. When describing a feminine object, "baydda'" is used, which is 813 or 814, depending on how it's spelled. When referring to an object in general that is white, or an egg, or something that is pure or "white" in that sense, "baydd" is used, which has the value of 812. When adding all the verse numbers that have all variations of the word "white", the newly added value surprisingly happens to be 813:
+		Verses: Chapter / Verse
+			  2:	187
+			  3:	106
+			  3:	107
+			  7:	108
+			 12:	 84
+			 20:	 22
+			 26:	 33
+			 27:	 12
+			 28:	 32
+			 35:	 27
+			 37:	 46
+			 37:	 49
+			 total: 813
+
+------------------------------------------------------------------
+
+2. Value of "Iron":
+	-"Iron" has a value of 26
+	-"The Iron" has a value of 57
+	
+	-Potential Significance:
+		-The gematrical value of "iron" is 26, the same number as the atomic number of iron in the periodic table of elements. Furthermore, the gematical value of "the iron" is 57, which the atomic mass of one of the naturally occuring isotopes of iron, as well as having the same value as the chapter in the Quran titled "The Iron".
+		-The only verse in the 57th chapter of the Quran ("The Iron") that mentions iron is verse 25. Including the unnumbered basmallah at the beginning of the chapter, that makes the occurance of "iron" appear in the 26th verse. Furthermore, the 26th occurance of "Allah" in this chapter is in this verse (including the basmallah). Coincidentally, in verse 25, the 26th occurance of "Allah" happens to also be the 25th word of the verse.
+			-Confirmed using QuranCode by searching for "Allah" just in the 57th chapter and manually counting the occurances until the 25th verse; there were 33 total results for "Allah" in the entire chapter.
+		-57* is divisible by 19 (19 * 3), and the chapter titled "the Iron" appears in the center of the Quran as the 57th chapter. It should be noted that the center of Earth is made up of iron.
+		-Quran 57:25 states, "Assuredly We sent Our apostles with evidences, and We sent down With them the book and the balance, that people might observe equity. And We sent down iron wherein is great violence and also advantages Unto mankind, and that Allah may know him who succoureth Him, unseen, and His apostles. Verily Allah is Strong, Mighty". This shows that God sent down iron to earth. This is important for two reasons. The first is that the leading theory on how iron came to the earth is from other stars, as the earth was not hot enough to have made it when it was being formed- in other words, iron was not a part of the original formation of the earth. Secondly, the earliest iron artifacts we've found indicates that the iron that was used came from meteroites. Regardless of which topic you go with, the Quran supports both, as in both cases the iron used was sent down from space.
+			-https://www.scientificamerican.com/article/iron-egyptian-relics-came-from-space/
+			-https://socratic.org/questions/how-did-iron-come-to-earth-millions-of-years-ago
+		-There are 29 numbered verses in chapter 57 ("The Iron") of the Quran, and 30 total verses (including the basmallah). The most abundant isotope of iron is iron 56, which means it has 30 neutrons.
+
+------------------------------------------------------------------
+
+3. Value of "Highest Degree":
+	-"The Highest Degree" has a value of 360
+	
+	-Potential Significance:
+		-Quran 40:15 says, "Possessor of the highest degrees, and Ruler of the whole dominion. He sends inspiration, bearing His commands, to whomever He chooses from among His servants, to warn about the Day of Summoning."
+		-Humanity attributes 360 degrees in a circle. The word used for "highest degree" in the Quran is "rafee'a", which has a gematrical value of 360.
+
+------------------------------------------------------------------
+
+
+
+------------------------------------------------------------------

@@ -1,0 +1,40 @@
+Google Earth Values:
+	north pole to south pole: 20003.92 kilometers
+	kaaba to south pole: 12371.80 kilometers
+	ratio: 1.61689649
+	error: 0.0007%
+
+----------------------------------------------------
+
+Kaaba Coordinates: 21.4225° N, 39.8262° E
+
+https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html
+
+north pole to south pole (NASA): 6356.752 * pi = 19970.3254 kilometers
+kaaba to south pole (THEORETICAL): 12342.3399 kilometers
+Golden Ratio: 1.61803399
+
+
+kaaba to south pole (answers.com): 12348.32 kilometers
+	ratio: 1.6172504
+	error: 0.00048%
+
+kaaba to south pole (keisan.casio.com): 12366.826 kilometers
+	ratio: 1.6148303
+	error: .00198%
+
+kaaba to south pole (Google Earth): 12371.81
+	ratio: 1.61417977
+	error: 0.00238%
+
+kaaba to south pole (www.timeanddate.com): 7,688 miles = 12372.6367 kilometers
+	ratio: 1.61407191
+	error: 0.00245%
+
+kaaba to south pole (www.movable-type.co.uk): 12390 kilometers
+	ratio: 1.61180996
+	error: 0.00385%
+
+kaaba to south pole (www.instesre.org): 11831.92 kilometers
+	ratio: 1.68783472
+	error: -0.0431%

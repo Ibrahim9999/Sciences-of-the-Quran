@@ -1,0 +1,4 @@
+-The difference between the maximum and minimum verse count is a prime number.
+	-286 - 3 = 283**
+
+-

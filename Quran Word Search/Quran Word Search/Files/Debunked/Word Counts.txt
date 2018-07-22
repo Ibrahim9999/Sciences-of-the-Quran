@@ -1,0 +1,71 @@
+Remarks:
+	-There are lots of websites out there that claim to have found certain mathematical "miracles" in the Quran, usually by finding anything, no matter how small, to support their side and invalidating the other, and so things that are insignificant can be interpreted to be significant. There are even certain cases of conflicting evidence, as both sometimes decide to fabricate and/or omit relevant information. In the 1974, an Eygptian living in the United States named Rashad Khalifa published research on the number 19, with the purpose of exposing the Quran's supposed accuracy with this number. It was originally recieved favorably, but then he claimed Prophethood based on his research (an act considered a lie or heresy by Islamic scripture, as it explicitly states that Muhammad is the last prophet and that the Quran is our ultimate guide for all people in all time) and people accused him of faking most of it, and as such people started having negative attitudes to the supposed numerical miracles of the Quran. However, this paper will not address the validity of Khalifa's work, rather the focus of this paper is to expose the inaccuracies made by those for and against the mathematical "miracles" in the Quran. I will not have any explanations here, just the facts; to see the individual word counts and how I was able to get that information, see "Significant Word Counts.txt". If the Quran is indeed the word of God, exposing the inaccuracies should shed some light on a much greater or more accurate "miracle".
+
+------------------------------------------------------------------
+
+Contents:
+	 1. Number of "Day" references
+	 2. Number of "Month" references
+	 3. Number of "Land" and "Sea" references
+	 4. Number of "Mercy" references
+
+------------------------------------------------------------------
+
+1. Number of "Day" references:
+	Claim 1:
+		-"day" in all forms appears 365 times
+	Claim 2:
+		-"day" in singular form appears 365 times
+		-"day" in plural form appears 30 times
+	Fact:
+		-"day" in all forms appear 475 times
+			-"day" in singular form appears 365 times
+			-"day" in plural form appears 30 times
+			-"that day" (special conjugation) appears 70 times
+			-"their day" appears 5 times
+			-"your day" appears 5 times
+
+------------------------------------------------------------------
+
+2. Number of "Month" references:
+	Claim 1:
+		-"month" in all forms appears 12 times
+	Fact:
+		-"month" in all forms appears 21 times
+			-"month" in singular form appears 12 times
+			-"month" in plural form appears 9 times
+
+------------------------------------------------------------------
+
+3. Number of "Land" and "Sea" references:
+	Claim 1:
+		-"land" appears 13 times
+		-"sea" appears 32 times
+		
+		-"land" appears 29% of the time, same as on Earth
+		-"sea" appears 71% of the time, same as on Earth
+	Fact:
+		-"the land" appears 12 times
+		-"sea" in all forms appears 42 times
+			-"sea" in singular form appears 33 times
+				-"the sea" (same form as "the land") appears 32 times
+			-"sea" in a special conjuagtion appears 1 time
+			-"sea" in plural form appears 8 times
+		
+		-"land" appears .22% of the time
+		-"sea" appears .88% of the time
+
+------------------------------------------------------------------
+
+4. Number of "Mercy" references:
+	-Claim 1: http://www.discoveringislam.org/mathematical_miracles.htm
+		-"mercy" in all forms appears 114 times
+		-"the Merciful" appears 57 times (half of 114)
+	Fact:
+		-"mercy" in all forms appears 339 times
+		-"mercy" as a noun appears 114 times
+		-"the Merciful" appears 115*** times
+		-"the Gracious" (a special conjugation of "mercy") appears 57 times
+
+------------------------------------------------------------------
+
