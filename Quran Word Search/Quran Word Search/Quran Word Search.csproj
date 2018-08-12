@@ -58,7 +58,8 @@
     <None Include="Files\arabic.txt" />
     <None Include="Files\quran.txt" />
     <None Include="Files\Sources\Quran\quran-simple-clean-aya-numbers.txt">
-      <Link>Files\quran-simple-clean-aya-numbers.txt</Link>
+      <Link>quran-simple-clean-aya-numbers.txt</Link>
+      <DependentUpon>Program.cs</DependentUpon>
     </None>
   </ItemGroup>
   <ItemGroup>
